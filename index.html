@@ -19,6 +19,34 @@
 		<article>
 			<h2>About me</h2>
 			<p>I'm a software developer. I also make games and Blender art.</p>
+			<h2>Projects</h2>
+
+			<span>Search: </span>
+			<input id="search" />
+			<div id="projectCards"></div>
+
+			<div id="contactForm">
+				<h2>Contact</h2>
+
+				<span>Email</span>
+				<input id="contactEmail" />
+				<br />
+
+				<span>Subject</span>
+				<input id="contactSubject" />
+				<br />
+
+				<p>Message</p>
+				<textarea id="contactMessage"></textarea>
+				<br />
+
+				<button type="button" id="contactSubmit">Submit</button>
+
+				<p id="contactError"></p>
+				<p id="contactSuccess" style="display: none">
+					Contact submitted successfully.
+				</p>
+			</div>
 		</article>
 
 		<footer>

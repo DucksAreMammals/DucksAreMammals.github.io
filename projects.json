@@ -1,0 +1,20 @@
+[
+	{
+		"id": 0,
+		"title": "Portfolio",
+		"description": "This portfolio website. I made this for a college class while pursuing my degree in software development.",
+		"technologiesUsed": "Javascript, HTML/CSS"
+	},
+	{
+		"id": 1,
+		"title": "Snake",
+		"description": "A simple snake game made in JS using a canvas for display. It was one of the first games I ever made that I was really happy with. I'm still very happy with it, the controls feel good and the game feels fair.",
+		"technologiesUsed": "Javascript, HTML/CSS, HTML Canvas"
+	},
+	{
+		"id": 2,
+		"title": "Water Collector",
+		"description": "A simple platformer made in Godot. This was the first real project I took on in the Godot game engine, and the first real game I made in any engine. It's rough around the edges and the art could be better, but I'm proud of it.",
+		"technologiesUsed": "Godot"
+	}
+]

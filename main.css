@@ -81,3 +81,16 @@ footer {
 	text-align: center;
 	font-size: 0.8em;
 }
+
+.projectCard {
+	border: 1px solid black;
+	padding: 1em;
+}
+
+input, textarea, button {
+	border: 1px solid black;
+}
+
+#contactError {
+	color: red;
+}
